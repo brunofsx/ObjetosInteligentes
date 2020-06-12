@@ -43,3 +43,5 @@ Carregador Tomada Plug Adaptador Fonte Usb 5v 2.1a Bivolt
 Adaptador de alta performance para carregamento de dispositivos com entrada USB, feito
 em material resistente e durável. Indicado para dispositivos com cabos USB que necessitam
 ligar na Tomada (100-240v).
+
+A plataforma utilizada para desenvolvimento foi a Arduino Ide.
