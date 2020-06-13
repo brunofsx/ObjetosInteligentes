@@ -51,4 +51,46 @@ Documentação do Protocolo MQTT:
 
 http://mqtt.org/documentation
 
+Funcionalidades:
 
+-float faz_leitura_temperatura(void)
+
+Faz a leitura de temperatura utilizando o sensor.
+
+-float faz_leitura_umidade(void)
+
+Faz a leitura de umidade utilizando o sensor.
+
+-void initWiFi(void)
+
+Inicializa e conecta-se na rede WI-FI desejada
+
+-void initMQTT(void)
+
+inicializa parâmetros de conexão MQTT
+
+-void mqtt_callback(char* topic, byte* payload, unsigned int length) 
+
+Função de callback esta função é chamada toda vez que uma informação de um dos tópicos subescritos chega.
+
+-void reconnectMQTT(void)
+
+Reconecta-se ao broker MQTT (caso ainda não esteja conectado ou em caso de a conexão cair)
+em caso de sucesso na conexão ou reconexão, o subscribe dos tópicos é refeito.
+
+-void VerificaConexoesWiFIEMQTT(void)
+
+Verifica o estado das conexões WiFI e ao broker MQTT. 
+Em caso de desconexão (qualquer uma das duas), a conexão é refeita
+
+-void reconnectWiFi(void)
+
+Reconecta-se ao WiFi
+
+-void setup()
+
+Função de setup
+
+-void loop()
+
+Loop principal
