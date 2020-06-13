@@ -1,8 +1,8 @@
 # ObjetosInteligentes
 
-Projeto feito na matéria de Objetos Inteligentes conectados.
+**Projeto feito na matéria de Objetos Inteligentes conectados.**
 
-Descrição:
+**Descrição:**
 
 Nosso projeto é uma solução que integra um sensor de temperatura e
 um de umidade, um alarme para emitir som quando se atingir uma certa temperatura
@@ -11,7 +11,7 @@ integração com redes Wi-Fi e envia esses dados para um celular ou pode ser usa
 como um alarme de forma a alertar quando uma certa temperatura ou umidade forem
 alcançadas em um local.
 
-Componentes de hardware utilizados:
+**Componentes de hardware utilizados:**
 
 Placa ESP8266E
 O microcontrolador ESP8266 é Um chip desenvolvido pela empresa chinesa Espressif.
@@ -47,11 +47,11 @@ ligar na Tomada (100-240v).
 
 A plataforma utilizada para desenvolvimento foi a Arduino Ide.
 
-Documentação do Protocolo MQTT:
+**Documentação do Protocolo MQTT:**
 
 http://mqtt.org/documentation
 
-Funcionalidades:
+**Funcionalidades:**
 
 -float faz_leitura_temperatura(void)
 
