@@ -97,3 +97,5 @@ Loop principal
 
 **Arquitetura do Projeto**
 
+![diagramaprojeto](https://user-images.githubusercontent.com/11764088/84574131-f5392600-ad7a-11ea-8942-bcc8c42aaa9d.PNG)
+
