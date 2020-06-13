@@ -94,3 +94,6 @@ Função de setup
 -void loop()
 
 Loop principal
+
+**Arquitetura do Projeto**
+
