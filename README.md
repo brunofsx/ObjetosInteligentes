@@ -15,6 +15,7 @@ Componentes de hardware utilizados:
 
 Placa ESP8266E
 O microcontrolador ESP8266 é Um chip desenvolvido pela empresa chinesa Espressif.
+O módulo Wifi ESP8266 NodeMCU é uma placa de desenvolvimento que combina o chip ESP8266, uma interface usb-serial e um regulador de tensão 3.3V. A programação pode ser feita usando LUA ou a IDE do Arduino, utilizando a comunicação via cabo micro-usb.
 
 Módulo DTH11
 
@@ -45,3 +46,9 @@ em material resistente e durável. Indicado para dispositivos com cabos USB que 
 ligar na Tomada (100-240v).
 
 A plataforma utilizada para desenvolvimento foi a Arduino Ide.
+
+Documentação do Protocolo MQTT:
+
+http://mqtt.org/documentation
+
+
