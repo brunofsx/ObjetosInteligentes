@@ -1,4 +1,4 @@
-# ObjetosInteligentes
+# Objetos Inteligentes
 
 **Projeto feito na matéria de Objetos Inteligentes conectados.**
 
