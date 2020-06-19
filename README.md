@@ -1,4 +1,4 @@
-# Objetos Inteligentes
+# Medidor de temperatura e umidade
 
 **Projeto feito na matéria de Objetos Inteligentes conectados.**
 
